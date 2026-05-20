@@ -1,1 +1,1 @@
-# retail-workforce-productivity-analytics
+This project analyzes how schedule consistency impacts cashier productivity using transaction-level retail operational data. The study evaluates whether consistent scheduling by hour-of-day and day-of-week improves checkout efficiency and workforce performance.
